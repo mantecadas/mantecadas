@@ -7,28 +7,16 @@ Hola, me llamo [Luis Sebastian](https://www.instagram.com/luis_sebastian123/?hl=
 <!--Gustos-->
 **Algunos de mis gustos:**
 <!-- TODO-IST:START -->
-<ul>
-    <li>💻 Programar</li>
-    <li>👾 Videojuegos</li>
-    <li>🎹 Piano</li>
-    <li>🌌 Photoshop</li>
-    <li>🏓 Ping pong</li>
-    <li>🌴 Playa</li>
-    <li>🎥 Ir al cine</li>
-</ul>
- <!-- TODO-IST:END -->
-
-<p align="center" top="500px"><img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="40%" alt="Como me veo en un futuro" ></p>
-
-
-<!--💻 Programar
+💻 Programar
 👾 Videojuegos
 🎹 Piano
 🌌 Photoshop
 🏓 Ping pong
 🌴 Playa
 🎥 Ir al cine
--->
+<!-- TODO-IST:END -->
+
+<p align="center" top="500px"><img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="40%" alt="Como me veo en un futuro" ></p>
 
 <p align="center">
     <code><img title="Java" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/java-original.svg"></code>
