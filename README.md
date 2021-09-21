@@ -6,15 +6,12 @@ Hola, me llamo [Luis Sebastian](https://www.instagram.com/luis_sebastian123/?hl=
 
 <!--Gustos-->
 **Algunos de mis gustos:**
-<!-- TODO-IST:START -->
-<ul>
-    <li>💻 Programar</li>
-    <li>👾 Videojuegos</li>
-    <li>🎹 Piano</li>
-    <li>🌌 Photoshop</li>
-    <li>🏓 Ping pong</li>
-    <li>🌴 Playa</li>
-    <li>🎥 Ir al cine</li>
-</ul>
+💻 Programar
+👾 Videojuegos
+🎹 Piano
+🌌 Photoshop
+🏓 Ping pong
+🌴 Playa
+🎥 Ir al cine
  <!-- TODO-IST:END -->
  
