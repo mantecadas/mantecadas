@@ -1,16 +1,25 @@
-### Hi there 👋
+<style>
+    ul{
+        list-style-type:none;
+    }
 
-<!--
-**mantecadas/mantecadas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+    
+</style>
+# Hey There <img src="https://media.giphy.com/media/v0dGnTDFgEr68myH0C/giphy.gif?cid=790b7611l40yadxmhzejzwvrjdjv4pmj1goy9f9vvnkbajgq&rid=giphy.gif&ct=s" width="40px">
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hola, me llamo[Luis Sebastian](https://www.instagram.com/luis_sebastian123/?hl=es) y soy estudiante de la carrera de Ciencias de la Computación. 
+
+<!--Gustos-->
+**Algunos de mis gustos:**
+<!-- TODO-IST:START -->
+<ul>
+    <li>💻 Programar</li>
+    <li>👾 Videojuegos</li>
+    <li>🎹 Piano</li>
+    <li>🌌 Photoshop</li>
+    <li>🏓 Ping pong</li>
+    <li>🌴 Playa</li>
+    <li>🎥 Ir al cine</li>
+</ul>
+ <!-- TODO-IST:END -->
