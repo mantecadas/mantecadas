@@ -7,13 +7,7 @@ Hola, me llamo [Luis Sebastian](https://www.instagram.com/luis_sebastian123/?hl=
 <!--Gustos-->
 **Algunos de mis gustos:**
 <!-- TODO-IST:START -->
-
-
-
-
- <!-- TODO-IST:END -->
-
-<div> 
+<div style="background:red;"> 
 <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="40%" alt="Como me veo en un futuro">
 <ul>
     <li>💻 Programar</li>
@@ -25,3 +19,4 @@ Hola, me llamo [Luis Sebastian](https://www.instagram.com/luis_sebastian123/?hl=
     <li>🎥 Ir al cine</li>
 </ul>
 </div>
+ <!-- TODO-IST:END -->
