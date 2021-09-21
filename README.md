@@ -7,7 +7,7 @@ Hola, me llamo[Luis Sebastian](https://www.instagram.com/luis_sebastian123/?hl=e
 <!--Gustos-->
 **Algunos de mis gustos:**
 <!-- TODO-IST:START -->
-<ul list-style-type="none">
+<ul style="list-style-type:none;">
     <li>💻 Programar</li>
     <li>👾 Videojuegos</li>
     <li>🎹 Piano</li>
