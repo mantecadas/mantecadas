@@ -29,6 +29,12 @@ Hola, me llamo [Luis Sebastian](https://www.instagram.com/luis_sebastian123/?hl=
 🎥 Ir al cine
 -->
 
-<p>
+<p align="center">
     <code><img title="Java" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/java-original.svg"></code>
+    <code><img title="Javascript" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/javascript.svg"></code>
+    <code><img title="Visual Studio Code" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/vscode.png"></code>
+    <code><img title="GitHub" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/github.svg"></code>
+    <code><img title="MySQL" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/mysql.svg"></code>
+    <code><img title="HTML5" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/html5.svg"></code>
+    <code><img title="CSS" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/css.svg"></code>
 </p>
