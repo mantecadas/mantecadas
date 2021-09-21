@@ -1,4 +1,3 @@
-
 # Conoceme <img src="https://media.giphy.com/media/v0dGnTDFgEr68myH0C/giphy.gif?cid=790b7611l40yadxmhzejzwvrjdjv4pmj1goy9f9vvnkbajgq&rid=giphy.gif&ct=s" width="40px">
 
 
@@ -7,8 +6,6 @@ Hola, me llamo [Luis Sebastian](https://www.instagram.com/luis_sebastian123/?hl=
 <!--Gustos-->
 **Algunos de mis gustos:**
 <!-- TODO-IST:START -->
-<div style="background:red;"> 
-<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="40%" alt="Como me veo en un futuro">
 <ul>
     <li>💻 Programar</li>
     <li>👾 Videojuegos</li>
@@ -18,5 +15,6 @@ Hola, me llamo [Luis Sebastian](https://www.instagram.com/luis_sebastian123/?hl=
     <li>🌴 Playa</li>
     <li>🎥 Ir al cine</li>
 </ul>
-</div>
  <!-- TODO-IST:END -->
+
+<p align="center" top="500px"><img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="40%" alt="Como me veo en un futuro" ></p>
