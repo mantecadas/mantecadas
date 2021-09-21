@@ -1,4 +1,4 @@
-# Hey There<img src="https://media.giphy.com/media/v0dGnTDFgEr68myH0C/giphy.gif?cid=790b7611l40yadxmhzejzwvrjdjv4pmj1goy9f9vvnkbajgq&rid=giphy.gif&ct=s" width="40px">
+# About me! <img src="https://media.giphy.com/media/v0dGnTDFgEr68myH0C/giphy.gif?cid=790b7611l40yadxmhzejzwvrjdjv4pmj1goy9f9vvnkbajgq&rid=giphy.gif&ct=s" width="40px">
 
 
 Hola, me llamo [Luis Sebastian](https://www.instagram.com/luis_sebastian123/?hl=es) y soy estudiante de la carrera de Ciencias de la Computación. 
@@ -32,9 +32,14 @@ Hola, me llamo [Luis Sebastian](https://www.instagram.com/luis_sebastian123/?hl=
 <p align="center">
     <code><img title="Java" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/java-original.svg"></code>
     <code><img title="Javascript" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/javascript.svg"></code>
+    <code><img title="HTML5" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/html5.svg"></code>
+    <code><img title="CSS" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/css.svg"></code>
     <code><img title="Visual Studio Code" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/vscode.png"></code>
     <code><img title="GitHub" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/github.svg"></code>
     <code><img title="MySQL" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/mysql.svg"></code>
-    <code><img title="HTML5" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/html5.svg"></code>
-    <code><img title="CSS" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/css.svg"></code>
 </p>
+
+<div align="center">
+    <a href="[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mantecadas)](https://github.com/anuraghazra/github-readme-stats)
+"></a>
+</div>
