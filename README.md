@@ -59,7 +59,7 @@ Hola, me llamo [Luis Sebastian](https://www.instagram.com/luis_sebastian123/?hl=
     </a>
   </div>
   <br>
-  <img src="https://activity-graph.herokuapp.com/graph?username=mantecadas&theme=tokyonight" width="100%"/>
+  <img src="https://activity-graph.herokuapp.com/graph?username=mantecadas&theme=react-dark" width="100%"/>
 </p>
 
 <hr>
