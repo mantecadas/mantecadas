@@ -40,6 +40,9 @@ Hola, me llamo [Luis Sebastian](https://www.instagram.com/luis_sebastian123/?hl=
     <code><img title="MySQL" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/mysql.svg"></code>
 </p>
 
+<br>
+<hr>
+
 <p align=center>
   <div align=center>
     <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
@@ -58,6 +61,8 @@ Hola, me llamo [Luis Sebastian](https://www.instagram.com/luis_sebastian123/?hl=
   <br>
   <img src="https://activity-graph.herokuapp.com/graph?username=mantecadas&theme=react-dark" width="100%"/>
 </p>
+
+<hr>
 
 
 
